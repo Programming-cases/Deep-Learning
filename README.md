@@ -1,5 +1,4 @@
 # Deep Learning with PyTorch
-```
-python
+```Python
 !pip3 install torchvision
 ```
