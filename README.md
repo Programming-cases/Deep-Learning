@@ -1,4 +1,4 @@
-# Deep Learning with $PyTorch$
+# Deep Learning with PyTorch
 ```Python
 ! pip3 install torchvision
 ```
