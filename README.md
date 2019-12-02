@@ -1,5 +1,5 @@
 # Deep Learning with *PyTorch*
 ```Python
-! pip3 install torchvision
+! pip install torchvision
 ```
 ![](imagen.png)
