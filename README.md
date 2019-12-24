@@ -1,4 +1,4 @@
-# Deep Learning with Python 
+# Deep Learning in *Python* 
 The first steps to dive into Deep Learning with the package ***PyTorch*** 
 ```Python
 pip install torchvision
