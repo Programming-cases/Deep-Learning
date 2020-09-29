@@ -1,6 +1,6 @@
 # Deep Learning in *Python* 
-The first steps to dive into Deep Learning with the package ***PyTorch*** 
+The first steps to dive into Deep Learning with ***PyTorch*** 
 ```Python
 pip install torchvision
 ```
-![](imagen.png)
+![](https://www.cloudmasters.es/wp-content/uploads/sites/5/2020/02/image-4.png)
