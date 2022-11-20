@@ -1,5 +1,5 @@
 # Deep Learning in *Python* 
-The first steps to dive into Deep Learning with ***PyTorch*** 
+First steps to dive into Deep Learning with ***PyTorch*** 
 ```Python
 !pip install torchvision
 ```
